@@ -2,6 +2,10 @@ div {
     background-color: #01a1f7f6;
 }
 
+body { 
+    font-family: Cambria, Georgia, serif;
+}
+
 .Grigio {
     color: rgb(137, 138, 138);
 }
