@@ -26,3 +26,15 @@ thead {
     background-color: rgb(149, 221, 250);
 }
 
+#interesse {
+    color: rgb(137, 138, 138);
+}
+
+#foot_span1 {
+    background-image: url("../img/monitor.jpg");
+}
+
+#foot_span2 {
+    background-image: url("../img/graph.jpg");
+}
+
