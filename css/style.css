@@ -1,4 +1,4 @@
-div {
+.header {
     background-color: #01a1f7f6;
     background-image: url("../img/pattern.png");
     background-size: contain;
@@ -17,6 +17,9 @@ body {
     color: #01a1f7f6;
 }
 
+.lista {
+    text-align: left;
+}
 
 thead {
     color: whitesmoke;
@@ -33,16 +36,17 @@ thead {
 
 #foot_span1 {
     background-image: url("../img/monitor.jpg");
-    width: 300px;
+    width: 250px;
     height: 200px;
     color: white;
-
+    text-align: center;
 }
 
 #foot_span2 {
     background-image: url("../img/graph.jpg");
-    width: 300px;
+    width: 250px;
     height: 200px;
     color: white;
+    text-align: center;
 }
 
