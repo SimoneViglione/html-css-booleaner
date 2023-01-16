@@ -17,6 +17,7 @@ body {
     color: #01a1f7f6;
 }
 
+
 thead {
     color: whitesmoke;
     background-color: #01a1f7f6; 
@@ -32,9 +33,14 @@ thead {
 
 #foot_span1 {
     background-image: url("../img/monitor.jpg");
+    width: 300px;
+    height: 200px;
+
 }
 
 #foot_span2 {
     background-image: url("../img/graph.jpg");
+    width: 300px;
+    height: 200px;
 }
 
