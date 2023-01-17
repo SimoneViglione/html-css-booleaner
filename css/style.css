@@ -41,7 +41,7 @@ thead {
     width: 250px;
     height: 200px;
     color: white;
-    text-align: center;
+    padding: 20px;
 }
 
 #foot_span2 {
@@ -49,6 +49,6 @@ thead {
     width: 250px;
     height: 200px;
     color: white;
-    text-align: center;
+    padding: 20px;
 }
 
